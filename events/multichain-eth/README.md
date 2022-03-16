@@ -34,7 +34,7 @@ title: Multichain ETH
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Blockswap Presents: Multichain ETH
+  Blockswap Presents "Multichain ETH"
 
 #####################
 ### EVENT DETAILS ###
