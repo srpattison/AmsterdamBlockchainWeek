@@ -28,20 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Web3 EXP (Chainshot)
+title: Applied ZK Workshop
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: 
-  Web3 EXP is a two-day smart contract bootcamp designed for anyone looking to earn experience in the web3 space. 
+description: The Applied ZK Workshop brings teams from around the ZK ecosystem together to learn about the latest developments in the zero-knowledge application landscape. 
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Web3 EXP (Chainshot)
+name: Applied ZK Workshop
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -49,32 +48,35 @@ name: Web3 EXP (Chainshot)
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Web3 EXP is a two-day smart contract bootcamp designed for anyone looking to earn experience in the web3 space. Regardless of your current skill level, you are welcome to join us and discover everything you need to know to effectively deploy contracts and build dapps on the blockchain.
-  - Come prepared to code! This event is designed to challenge you to level up your skills. It will be a mix of a fun and social event with gamified challenges to take you to the next level.
+  - Topics of focus include
+  - ZK application design patterns - Techniques and patterns for building user-facing applications enabled by ZK.
+  - Identity primitives - Using zkSNARKs for building decentralized identity primitives.
+  - Tooling and infrastructure - ZK developer tools and the future of proving systems, languages, and more.
+  - Auditing and verification - Formal verification and other methods for ensuring the correctness of complex ZK constructions.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-20
+date: 2022-04-23
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-21
+endDate: 2022-04-24
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '10:00'
+time: '10:30'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '17:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://amsterdam.chainshot.com/
+tickets: https://zkworkshop.info/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Het West-Indisch Huis
+venue: West Indisch Huis
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
@@ -87,7 +89,7 @@ address: Herenmarkt 99, 1013 EC Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: workshop
+category: conference
 
 
 #################
