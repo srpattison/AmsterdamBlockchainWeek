@@ -7,7 +7,7 @@
 <template>
   <div class="ticket--container">
     <!-- Ticket price -->
-    <span class="ticket--price">
+    <span  v-if="$page.frontmatter.price" class="ticket--price">
       {{ price }}
     </span>
 
