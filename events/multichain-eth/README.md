@@ -101,7 +101,7 @@ category: event/meetup
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
+speakers: []
   -
     # # Required.
     #name: Nathan Sexer
@@ -126,11 +126,11 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan.
-    name: See all events
+    #name: See all events
     #title: President
-    company: HERE
-    companyURL: https://devconnect.org/schedule
-    twitter: efdevconnect
+    #company: HERE
+    #companyURL: https://devconnect.org/schedule
+    #twitter: efdevconnect
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
