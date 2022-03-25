@@ -7,8 +7,8 @@
 <template>
   <div class="ticket--container">
     <!-- Ticket price -->
-    <span class="ticket--price">
-      Cost:&nbsp;{{ price }}
+    <span  v-if="$page.frontmatter.price" class="ticket--price">
+      {{ price }}
     </span>
 
     <!-- Link to ticket sale -->
@@ -30,10 +30,13 @@ export default {
   computed: {
     price () {
       let price = this.$page.frontmatter.price
-      if (!price || price === 0) {
-        return 'Free'
+      if (price === 0) {
+        return 'Cost: Free'
       }
-      price += ' €'
+      if (!price) {
+        return ''
+      }
+      price = 'Cost: ' + price + ' €'
       return price
     }
   }

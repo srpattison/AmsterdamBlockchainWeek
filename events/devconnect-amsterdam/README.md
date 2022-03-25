@@ -72,9 +72,10 @@ endTime: '22:00'
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://devconnect.org/
 
-# If the entrance is free, set zero (0) as the price, or leave it empty.
+# If the entrance is free, set zero (0) as the price
+# If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: All around Amsterdam
