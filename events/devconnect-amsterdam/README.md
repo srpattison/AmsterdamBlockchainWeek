@@ -33,7 +33,7 @@ title: DevConnect Amsterdam
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: 
+description:
   A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
 
 #####################
@@ -53,7 +53,7 @@ synopsis:
     'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
   -
     'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
-    
+
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -127,7 +127,7 @@ speakers: []
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
-    #   This is Nathan. 
+    #   This is Nathan.
     #name: See all events
     #title: President
     #company: HERE
