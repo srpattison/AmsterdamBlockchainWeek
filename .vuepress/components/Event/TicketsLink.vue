@@ -30,11 +30,11 @@ export default {
   computed: {
     price () {
       let price = this.$page.frontmatter.price
-      if (!price) {
-        return ''
-      }
       if (price === 0) {
         return 'Cost: Free'
+      }
+      if (!price) {
+        return ''
       }
       price = 'Cost: ' + price + ' €'
       return price
