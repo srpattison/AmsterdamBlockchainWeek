@@ -103,7 +103,7 @@ category: event
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers: []
 # speakers:
-  -
+#  -
     # # Required.
     #name: Nathan Sexer
 
