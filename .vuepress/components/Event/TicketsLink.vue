@@ -8,7 +8,7 @@
   <div class="ticket--container">
     <!-- Ticket price -->
     <span class="ticket--price">
-      Cost:&nbsp;{{ price }}
+      {{ price }}
     </span>
 
     <!-- Link to ticket sale -->
@@ -30,10 +30,13 @@ export default {
   computed: {
     price () {
       let price = this.$page.frontmatter.price
-      if (!price || price === 0) {
-        return 'Free'
+      if (!price) {
+        return ''
       }
-      price += ' €'
+      if (price === 0) {
+        return 'Cost: Free'
+      }
+      price = 'Cost: ' + price + ' €'
       return price
     }
   }
