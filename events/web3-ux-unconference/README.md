@@ -103,7 +103,7 @@ category: conference
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
+speakers: []
   -
     # # Required.
     #name: Nathan Sexer
