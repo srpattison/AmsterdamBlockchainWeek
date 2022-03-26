@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: The Conference Exchanges DEX
+title: HOW TO DEX
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -40,7 +40,7 @@ description: A conference for DeFi and TradFi experts on the future of DEX adopt
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The Conference Exchanges DEX
+name: HOW TO DEX
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -62,14 +62,14 @@ endDate: 2022-04-21
 # Example: '18:00'
 time: '12:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://theconference.exchange/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Vondelkerk
