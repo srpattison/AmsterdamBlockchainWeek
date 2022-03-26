@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Multichain ETH
+title: Workshop on Incentive Mechanism Validation
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Blockswap Presents "Multichain ETH"
+  An in-person workshop dedicated to the practical application of optimization, control theory, and reinforcement learning for the development and validation of Ethereum protocols.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Multichain ETH
+name: Workshop on Incentive Mechanism Validation
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,38 +50,39 @@ name: Multichain ETH
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'This event will include talks and workshops by industry leading professionals around the following topics as well as a DAppNode giveaway.'
+    Mechanism design is a branch of economics focused on creating incentives to encourage the adoption of behavior such that higher-level goals are achieved. Mechanism designers begin by applying reverse game theory to construct mathematical descriptions of incentives, actors, and game mechanics. How can a proposed mechanism be validated? In a simulation, agents modeled on heuristics or control theory can interact with a mechanism and provide first-order checks. Further, given sufficient compute resources, reinforcement learning can be used to obtain performant or adversarial agents that provide robust experimental validation.
   -
-    'Topics discussed: Switching blockchains without a bridge - Synthetics Vs. Derivatives - Democratized Staking - Running ETH validators with 8 ETH - Liquid staking without a pool, oracle, peg, or synthetics - Building new DeFi products based on derivatives'
+    This workshop will consist of short talks and tutorials focused on the roles of and interplay between optimization, control theory, and reinforcement learning in the mechanism design life cycle. Presenters are encouraged to share how they have used optimization, control theory, reinforcement learning, and related techniques to build or analyze real-world cryptoeconomic systems. Regardless of prior background, we want attendees to leave with intuition regarding which tools and approaches work well and in what situations. We also seek to identify open problems in Ethereum where the above-mentioned techniques can be applied.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-18
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate:
+endDate: 2022-04-18
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '08:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '12:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/multichain-eth-tickets-288238126997
+tickets: https://sites.google.com/semiotic.ai/wimv2022
 
-# If the entrance is free, set zero (0) as the price, or leave it empty.
+# If the entrance is free, set zero (0) as the price
+# If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Meet Berlage - Meeting, Work & Event Space Amsterdam Centrum
+venue: Hôtel Mövenpick Amsterdam City Centre
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 9 Oudebrugsteeg, 1012 JN Amsterdam 
+address: Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -90,7 +91,7 @@ address: 9 Oudebrugsteeg, 1012 JN Amsterdam
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event/meetup
+category: workshop
 
 
 #################
@@ -102,6 +103,7 @@ category: event/meetup
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers: []
+# speakers:
 #  -
     # # Required.
     #name: Nathan Sexer

@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Multichain ETH
+title: The Future of Eth Staking
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Blockswap Presents "Multichain ETH"
+  Meetup with players in ETH staking, organized by blox.io
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Multichain ETH
+name: The Future of Eth Staking
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,38 +50,39 @@ name: Multichain ETH
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'This event will include talks and workshops by industry leading professionals around the following topics as well as a DAppNode giveaway.'
+    More on The merge, Distributed Validator Tech (SSV) and the future of staking
   -
-    'Topics discussed: Switching blockchains without a bridge - Synthetics Vs. Derivatives - Democratized Staking - Running ETH validators with 8 ETH - Liquid staking without a pool, oracle, peg, or synthetics - Building new DeFi products based on derivatives'
+    Speakers from EthStaker, Bloxstaking, Lido, EF, Stereum
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-22
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate:
+endDate: 2022-04-22
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/multichain-eth-tickets-288238126997
+tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-tickets-299071369517
 
-# If the entrance is free, set zero (0) as the price, or leave it empty.
+# If the entrance is free, set zero (0) as the price
+# If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Meet Berlage - Meeting, Work & Event Space Amsterdam Centrum
+venue: All around Amsterdam
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 9 Oudebrugsteeg, 1012 JN Amsterdam 
+address: Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -90,7 +91,7 @@ address: 9 Oudebrugsteeg, 1012 JN Amsterdam
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event/meetup
+category: event
 
 
 #################
@@ -102,6 +103,7 @@ category: event/meetup
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers: []
+# speakers:
 #  -
     # # Required.
     #name: Nathan Sexer
