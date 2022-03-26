@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: Game Day Remix
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  Meetup with the team behind the Remix editor, beginning to seasoned users all welcome
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: Game Day Remix
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,35 +50,35 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    Remix is THE web-based Smart Contracts developer environment.
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
+    All experience levels welcome. Ask Remix Anything and play the Remix virtual obstacle course through contract development. You’ll learn some Remix tricks on the way to helping our UX research, and earn a Remix Devconnector badge, with additional reward when everyone finishes our 2-hour journey. Your ticket also includes entry to Devconnect Happy Hour right afterwards. Free to participate, but attendance is capped at 40, so reserve your spot now.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-22
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate: 2022-04-22
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '15:30'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://ticketh.xyz/Remix/gameday/
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: Beurs van Berlage, Level 1 Berlage Zaal
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
