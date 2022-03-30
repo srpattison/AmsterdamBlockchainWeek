@@ -34,7 +34,7 @@ title: Modular Summit
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  1-day Celestia conference
+  The Modular Summit is a day long event that will bring together visionaries to discuss what's next in blockchain. It's a series of conversations that will celebrate the innovative builders seeking to escape the limitations of today's monolithic chains
 
 #####################
 ### EVENT DETAILS ###
