@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: The Future of Eth Staking
+title: QuickNode Huis
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Meetup with players in ETH staking, organized by blox.io
+  Cozy place for you to hack and chill during Blockchain Week. QuickNode Huis is located on a historic canal in close proximity to the ETH Amsterdam venue.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The Future of Eth Staking
+name: QuickNode Huis
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,27 @@ name: The Future of Eth Staking
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    More on The merge, Distributed Validator Tech (SSV) and the future of staking
+    So anon whether you are in Amsterdam to attend the hackathon, other events or just to kick back, we have a cozy place for you to hack and chill.
   -
-    Speakers from EthStaker, Bloxstaking, Lido, EF, Stereum
+    QuickNode Huis is located on a historic canal in close proximity to the ETH Amsterdam venue. The house will be a space to hack, chill, collab, and meet new people. If you’re actually still reading this these perks will excite you even more; sessions from industry leaders, coffee and Snacks throughout the day, food for everyone, exclusive Swags for QuickNode Huis attendees, free to attend, cool setting for your photos.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-21
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-22
+endDate: 2022-04-25
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
 endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-tickets-299071369517
+tickets: https://lu.ma/huis
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +78,11 @@ tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-ticket
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: W Amsterdam
+venue: Amsterdam
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 175 Spuistraat, 1012VN Amsterdam, Netherlands
+address: Address after registration
 
 # The category of the event. Valid options:
 # - conference

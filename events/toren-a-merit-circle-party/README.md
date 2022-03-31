@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: The Future of Eth Staking
+title: TOREN - A Merit Circle party
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Meetup with players in ETH staking, organized by blox.io
+  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The Future of Eth Staking
+name: TOREN - A Merit Circle party
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,27 @@ name: The Future of Eth Staking
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    More on The merge, Distributed Validator Tech (SSV) and the future of staking
+    This will be the first event hosted by the Merit Circle DAO, a decentralized autonomous organization that supports and helps to develop the play-to-earn industry and the metaverse. The location of our daytime event is at The Loft in A'dam tower.
   -
-    Speakers from EthStaker, Bloxstaking, Lido, EF, Stereum
+    We will be having speakers at the event to talk about gaming in the blockchain industry, in addition to discussions on the decentralized space as a whole. Attendees are encouraged to join in socializing and conversing with the 70+ team-members and partners of the DAO; as well as enjoy the arcade set-up and other fun activities that are planned for the day!
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-22
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '13:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '18:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-tickets-299071369517
+tickets: https://twitter.com/MeritCircle_IO
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +78,11 @@ tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-ticket
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: W Amsterdam
+venue: The Loft
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 175 Spuistraat, 1012VN Amsterdam, Netherlands
+address: Overhoeksplein 1, 1031 KS, Amsterdam
 
 # The category of the event. Valid options:
 # - conference

@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: The Future of Eth Staking
+title: Decentralized Travel Meet-up
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Meetup with players in ETH staking, organized by blox.io
+  An afternoon with dreamers, developers and travellers from all over the world talking about Blockchain, DAOs, and Travel followed by an amazing after-party!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The Future of Eth Staking
+name: Decentralized Travel Meet-up
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,39 @@ name: The Future of Eth Staking
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    More on The merge, Distributed Validator Tech (SSV) and the future of staking
+    We invite you for an afternoon with dreamers, developers and travellers from all over the world talking about Blockchain, DAOs, and Travel followed by an amazing after-party!
   -
-    Speakers from EthStaker, Bloxstaking, Lido, EF, Stereum
+    Sounds like a plan?
+  -
+    We are a team working on Winding Tree project to bring a fair distribution landscape in Travel. Starting from pure blockchain technology we are moving to IRL products. One of them is called Stays. It enables travellers to book their accommodation via a smart contract and pay for their stay with Dai.
+  -
+    Yep, you read it right;  booking a hotel through blockchain with crypto.
+  -
+    We are organizing this event for anyone interested in learning more about blockchain applications in the travel industry and bring together people that want to brainstorm on how we can create the first marketplace DAO for accommodation providers.
+  -
+    To celebrate technology and life we drop an after-party as well with good vibes brought by @agamimosh our amazing Dj from Ukrainian 🇺🇦 and Winding Tree’s Marketing Guru.
+  -
+    The event will be free of charge but we **will have limited spots so https://forms.gle/5vR698jRRG5xmGJZA on the form if you want to join the event.
+  -
+    For those that booked a room with Stays you are automatically invited you just need to show us your NFT QR code you received when making your hotel booking.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-23
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-22
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '14:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '23:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-tickets-299071369517
+tickets: https://bit.ly/3NBt9P1
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +90,11 @@ tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-ticket
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: W Amsterdam
+venue: Amsterdam Center
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 175 Spuistraat, 1012VN Amsterdam, Netherlands
+address: Address TBD
 
 # The category of the event. Valid options:
 # - conference

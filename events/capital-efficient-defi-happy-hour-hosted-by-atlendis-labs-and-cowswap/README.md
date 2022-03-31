@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: The Future of Eth Staking
+title: “Capital-Efficient DeFi Happy Hour” hosted by Atlendis Labs and CowSwap
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Meetup with players in ETH staking, organized by blox.io
+  Join us for a happy hour featuring an overview of capital-efficient DeFi use cases; Funding, Investing, Trading.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The Future of Eth Staking
+name: “Capital-Efficient DeFi Happy Hour” hosted by Atlendis Labs and CowSwap
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,27 @@ name: The Future of Eth Staking
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    More on The merge, Distributed Validator Tech (SSV) and the future of staking
+    Join us for a happy hour featuring an overview of capital-efficient DeFi use cases; Funding, Investing, Trading.
   -
-    Speakers from EthStaker, Bloxstaking, Lido, EF, Stereum
+    Guest list from an invitation form to be filled in prior to the event.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-18
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-22
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '23:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-tickets-299071369517
+tickets: https://forms.gle/xqCbtyn7wcTvDoTd6
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +78,11 @@ tickets: https://www.eventbrite.com/e/the-future-of-eth-staking-amsterdam-ticket
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: W Amsterdam
+venue: Amsterdam
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 175 Spuistraat, 1012VN Amsterdam, Netherlands
+address: Address after registration
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +91,7 @@ address: 175 Spuistraat, 1012VN Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
