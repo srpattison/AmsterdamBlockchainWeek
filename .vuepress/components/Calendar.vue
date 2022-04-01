@@ -284,7 +284,7 @@ table
       background $backgroundColor
       td
         text-align left
-        vertical-align middle
+        vertical-align top
         border none
         border-bottom $thickBorder
         border-left $thickBorder
