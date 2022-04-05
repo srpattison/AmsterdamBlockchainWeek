@@ -97,15 +97,7 @@ category: event
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-# speakers: []
-speakers:
- -
-name: Andrej Rakic
- -
-name: Solange Gueiros
- -
-name: Austin Griffith
-
+speakers: [Andrej Rakic, Solange Gueiros, Austin Griffith]
 # # Can be left empty.
 #title: Title?
 
