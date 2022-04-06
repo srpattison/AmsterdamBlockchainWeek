@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Build the future of work with an open protocol. Prize money :)
+title: Build the future of work with an open protocol. Prize money ;)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -41,7 +41,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Build the future of work with an open protocol. Prize money :)
+name: Build the future of work with an open protocol. Prize money ;)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -56,7 +56,7 @@ synopsis:
   -
     2) The decisive ins and outs of building a globally distributed protocol
   -
-    by our cofounder [Abdel](https://twitter.com/dimahledba?lang=fr), co-author EIP 1559, you should like it ;)  (10 min)
+    by our cofounder [Abdel](twitter.com/dimahledba?lang=fr), co-author EIP 1559, you should like it ;)  (10 min)
   -
     3) Engineering future-proof smart contracts, in a design-pattern loving team
   -
