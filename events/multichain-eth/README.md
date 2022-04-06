@@ -74,14 +74,14 @@ tickets: https://www.eventbrite.com/e/multichain-eth-tickets-288238126997
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Meet Berlage - Meeting, Work & Event Space Amsterdam Centrum
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 9 Oudebrugsteeg, 1012 JN Amsterdam 
+address: 9 Oudebrugsteeg, 1012 JN Amsterdam
 
 # The category of the event. Valid options:
 # - conference
@@ -90,7 +90,7 @@ address: 9 Oudebrugsteeg, 1012 JN Amsterdam
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event/meetup
+category: event
 
 
 #################
