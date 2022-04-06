@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Pop Cult NFT by Iwan Smit
+title: Build the future of work with an open protocol. Prize money ;)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Pop-up exhibition from the Pop Cult NFT collection and reveal party
+  A workshop to understand how to build and use an open protocol. With Abdel, former Ethereum Core Developer, co-author of EIP 1559.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Pop Cult NFT - by Iwan Smit
+name: Build the future of work with an open protocol. Prize money ;)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,16 +50,27 @@ name: Pop Cult NFT - by Iwan Smit
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Pop Cult is a unique collection born from the mind of Dutch contemporary artist Iwan Smit (1989). What sets Pop Cult apart from other projects is the fact that all characters and traits are carefully designed- and digitised by the artist himself, ensuring the highest quality of Imagery. Pop Cult refers to ʻPopular Cultureʼ but at the same time uses the word Cult as a way to describe the community surrounding it. Pop Cult mixes elements from the greatest artists who walk(ed) the earth, to those who achieved a mere 15 minutes of fame. The well of inspiration in Pop-culture is endless and ranges from high-brow art to 90ʼs cartoons and everything before it, between it, and after it. All blended together seamlessly with a big spoon of the artistʼs signature.
+    1) Discover the decentralized world of work
   -
-    The designs of the Pop Cult NFTs will be announced on this day. This will be done by means of light boxes, which will be used to display total shots of the NFTs. There will also be separate light sculptures of the heads of several characters. It will be the first showcase of the project; obviously accompanied by (Duvel) drinks and good times.
+    by our lovely CEO (he is not lovely, but I’m only  a Devrel guys, and if I’m nice with him, I will get more tokens (5min)
   -
-    https://iwansmit.com/ https://popcult.io/
-
+    2) The decisive ins and outs of building a globally distributed protocol
+  -
+    by our cofounder [Abdel](twitter.com/dimahledba?lang=fr), co-author EIP 1559, you should like it ;)  (10 min)
+  -
+    3) Engineering future-proof smart contracts, in a design-pattern loving team
+  -
+    by Stan, an amazing dev, this talk will be fuc*** amazing. No pressure Stan (15 min)
+  -
+    4) Public demo of our protocol, with a secret use case in relation with the Ethereum foundation 👀 (10 min)
+  -
+    5) Let’s build. $2000 prize money (no space cake allowed 🍄) (3 hours, with 4 techs to help you ;)
+  -
+    Free Lunch (local style, you’ll love it) 🥗🍗🍳
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -67,12 +78,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '09:30'
 # Time when the event ends. Can be left empty.
-endTime: '21:00'
+endTime: '14:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.rademakersgallery.com/
+tickets: https://onlydust.notion.site/Build-the-future-of-work-with-an-open-protocol-Prize-money-to-win-00d1389f74074130a323c161331e11ae
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -80,11 +91,11 @@ tickets: https://www.rademakersgallery.com/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Rademakers Gallery
+venue: Het Groene Paleis
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Rokin 65, 1012 KK Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -93,7 +104,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: drink
+category: workshop
 
 
 #################
