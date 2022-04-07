@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: R&M Blockchain After – Drinks & On-stage panel
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  R&M Blockchain invites all crypto evangelists of Amsterdam, The Netherlands and the rest of the world to enjoy some drinks and discussion after the first days of DevConnect. Alongside a refreshing beer (or soda) we will host an interactive start and panel discussion on the topics you, the crowd, provides us. Our panel will consist of a couple of bright minds with long histories in Eth, crypto space and DeFi and are hoping to provide you with some interesting topics to talk about after their discussion.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: R&M Blockchain After – Drinks & On-stage panel
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,29 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    R&M Blockchain invites all crypto evangelists of Amsterdam, The Netherlands and the rest of the world to enjoy some drinks and discussion after the first days of DevConnect. Alongside a refreshing beer (or soda) we will host an interactive start and panel discussion on the topics you, the crowd, provides us. Our panel will consist of a couple of bright minds with long histories in Eth, crypto space and DeFi and are hoping to provide you with some interesting topics to talk about after their discussion.
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
+    Feel free to opt-in regardless of what you bring to the table! Builders, investors and starting entries in the community are all welcome and will create an exciting evening!
+  -
+    We are delighted by the generosity of Cloud Pirates and WBSO Software Specialist for providing an awesome location and resources to make this event available for everyone.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-26
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '17:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://www.meetup.com/Startup-Boot-Business-Networking-Meetup/events/284695154/
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +80,11 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: Cloud Pirates
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Piet Heinkade 217, Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
