@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Web3 Community Builders: 5 Lessons from BAYC
+title: Web3 Community Builders - 5 Lessons from BAYC
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -41,7 +41,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Web3 Community Builders: 5 Lessons from BAYC
+name: Web3 Community Builders - 5 Lessons from BAYC
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,7 @@ name: Web3 Community Builders: 5 Lessons from BAYC
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    With a $3,6B market cap - there are definitely some interesting lessons we can all use&learn.  What are the principles and Network effects behind this #1 NFT project?
+    With a $3,6B market cap - there are definitely some interesting lessons we can all use&learn.  What are the principles and Network effects behind this nr 1 NFT project?
   -
     Web3 Community Builders Meetup, where we'll discuss 5 Big Lessons from the Wild Success of Bored Ape Yacht Club 🙊🐒.  Group discussion, snacks and drinks.  Afterwards King's Day Pre-Party & Networking for Community Builders 👑🥳
 
