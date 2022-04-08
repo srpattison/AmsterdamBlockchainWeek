@@ -56,16 +56,15 @@ synopsis:
   -
     Our speakers are;
     Christopher Goes (Anoma) - 'Privacy as a public good in a cross-chain world'
-    Awa Sun Yin (Anoma) - TBD
     Max Hampshire (Nym) - 'Anonymous credentials on the blockchain - introducing Nym Coconut Credentials and the Nyx smart contract platform'
     Harry Grieve (Gensyn) - 'Privacy and deep learning’s new, trustless, infrastructure'
-    Emanuele Francioni (DUSK) - 'Reconciling privacy with auditing; the role of selective disclosure in decentralizing regulated transactions'
+    Marta Bellés Muñoz (DUSK) - 'Reconciling privacy with auditing; the role of selective disclosure in decentralizing regulated transactions'
   -
     Our panel;
     Adrian Brink (Anoma)
     Harry Grieve (Gensyn)
     Max Hampshire (Nym)
-    DUSK
+    Marta Bellés Muñoz (DUSK)
   -
     Moderator - Marina Petrichenko (Nym)
   -
