@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: Betting on Scalable Future (Azuro and Gnosis hacker house)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  We welcome hackers and web3 enthusiasts to join us for a multi-track hacker house  with speakers from Gnosis Chain, Gnosis Safe, Cow Protocol and a pre-mainnet launch workshop from Azuro featuring a 7 hours hackathon with cool prizes.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: Betting on Scalable Future (Azuro and Gnosis hacker house)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,31 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    We welcome hackers and web3 enthusiasts to join us for a multi-track hacker house  with speakers from Gnosis Chain, Gnosis Safe, Cow Protocol and a pre-mainnet launch workshop from Azuro featuring a 7 hours hackathon with cool prizes.
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
+    We are excited to experiment with new forms of contributor recognition for the hackathon and to meet our fellow community members.
+  -
+    Breakfast, Lunch, Snacks & Drinks will be provided, and, obviously, loads of POAPs!  All visitors to the hacker house are automatically registered for our after party 💃
+  -
+    Full program behind registration link
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
 time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://www.eventbrite.co.uk/e/betting-on-a-scalable-future-tickets-316668161997
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +82,11 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: Kanarie Club
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: 51 Bellamyplein, 1053 AT Amsterdam  Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +95,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: hackathon
 
 
 #################
