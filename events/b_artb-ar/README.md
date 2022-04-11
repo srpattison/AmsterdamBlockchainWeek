@@ -50,14 +50,14 @@ name: b.Art Bar
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Everyday from 17 to 19hrs drinks will be served at the Meet Berlage lobby to leave work behind and get ready for the cultural vibe of the Amsterdam nightlife.
+    Everyday from 18h to 20h drinks will be served at the Meet Berlage lobby to leave work behind and get ready for the cultural vibe of the Amsterdam nightlife.
   -
     In the b.Art Bar artists exploring the power of NFT’s are taken into the light of the Ethereum community. Artworks are being displayed, DJ’s fill the bar with eminent vibes while performance artists also take the floor. Have a beer and enjoy!
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate: 2022-04-25
@@ -65,12 +65,12 @@ endDate: 2022-04-25
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '17:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime: '19:00'
+endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.meetup.com/nl-NL/Permissionless-Society/events/
+tickets: https://b-art-bar.blockdam.nl
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
