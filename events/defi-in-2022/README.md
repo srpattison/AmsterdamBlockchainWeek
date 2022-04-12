@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
+title: DeFi in 2022
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  MHOUSE, Dutch web3 community and NFT AMS present an evening of NFTs
+  Come join the leaders of our industry at the Defi in 2022 event organised by Maven 11 and Framework Ventures.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
+name: DeFi in 2022
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,12 +50,17 @@ name: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Join MHOUSE, NFT.AMS and The Dutch Web3 Community for an evening full of NFTs! Enjoy expert speakers, free drinks, and beautiful art
+    Come join the leaders of our industry at the Defi in 2022 event organised by Maven 11 and Framework Ventures.
+  -
+    We will host panels talking about various topics such as market making in DeFi, DeFi Innovation, On-chain credit risk, DAO's and Derivatives.
+  -  
+    Speakers include; Maker, Yearn, Tribe, PotionLabs, Tracer, Float Capital, GRO, Flow Traders, Dexterity, Keyrock, Spectral and Gearbox
+
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-21
+date: 2022-04-18
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -63,12 +68,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '12:30'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '19:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/m-connect-tickets-319096244457
+tickets: https://www.eventbrite.com/e/defi-in-2022-tickets-318796397607
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -76,11 +81,11 @@ tickets: https://www.eventbrite.com/e/m-connect-tickets-319096244457
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: WIHH Gallery
+venue: Volkshotel
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:  Regulierdwaarstraat 73, Amsterdam, Netherlands
+address: Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference

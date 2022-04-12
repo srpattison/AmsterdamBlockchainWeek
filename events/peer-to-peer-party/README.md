@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
+title: Peer-to-Peer Party
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  MHOUSE, Dutch web3 community and NFT AMS present an evening of NFTs
+  A casual conversation for developers and thought leaders - join us for drinks, food, and a discussion about the Web3 tech stack
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
+name: Peer-to-Peer Party
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,11 @@ name: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Join MHOUSE, NFT.AMS and The Dutch Web3 Community for an evening full of NFTs! Enjoy expert speakers, free drinks, and beautiful art
+    Building on the Web3 tech stack? Interested in ideating on how to solve the tech challenges for moving from Web2 to Web3? Want to listen in to the discussion?
+  -
+    Join the founders and core dev teams of Livepeer, Fluence and others for an interactive conversation. This evening is for developers and thought leaders interested in the Web3 tech stack and the challenges it faces today.
+  -
+    What tech stack do developers need to build awesome Web3 applications?  What does the tech stack look like today?  What's missing for Web2 to migrate over?
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -65,10 +69,10 @@ endDate:
 # Example: '18:00'
 time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/m-connect-tickets-319096244457
+tickets: https://www.eventbrite.com/e/peer-to-peer-party-tickets-315393800347
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -76,11 +80,11 @@ tickets: https://www.eventbrite.com/e/m-connect-tickets-319096244457
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: WIHH Gallery
+venue: Soho House Amsterdam
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:  Regulierdwaarstraat 73, Amsterdam, Netherlands
+address: 210 Spuistraat  1012 VT Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -89,7 +93,7 @@ address:  Regulierdwaarstraat 73, Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
