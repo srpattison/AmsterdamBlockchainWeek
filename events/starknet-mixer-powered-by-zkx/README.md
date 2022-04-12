@@ -34,14 +34,14 @@ title: StarkNet Mixer - Powered by ZKX
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  A casual evening evening dedicated to the StarkNet community. The event is casual; relax, unwind, share ideas and socialize with your StarkWare brethren.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: A casual evening evening dedicated to the StarkNet community. The event is casual; relax, unwind, share ideas and socialize with your StarkWare brethren.
+name: StarkNet Mixer - Powered by ZKX
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,7 @@ name: A casual evening evening dedicated to the StarkNet community. The event is
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    A meet-up dedicated to the StarkNet ecosystem on the sidelines of DevConnect Amsterdam. The event is casual; relax, unwind, share ideas and socialize with your StarkWare brethren.
+    A meet-up dedicated to the StarkNet ecosystem on the sidelines of Blockchainweek Amsterdam. The event is casual; relax, unwind, share ideas and socialize with your StarkWare brethren.
   -
     See you at our first mixer with the StarkNet community!
 
