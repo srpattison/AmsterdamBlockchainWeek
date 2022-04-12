@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: DeFi in 2022
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  Come join the leaders of our industry at the Defi in 2022 event organised by Maven 11 and Framework Ventures.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: DeFi in 2022
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,9 +50,12 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    Come join the leaders of our industry at the Defi in 2022 event organised by Maven 11 and Framework Ventures.
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
+    We will host panels talking about various topics such as market making in DeFi, DeFi Innovation, On-chain credit risk, DAO's and Derivatives.
+  -  
+    Speakers include; Maker, Yearn, Tribe, PotionLabs, Tracer, Float Capital, GRO, Flow Traders, Dexterity, Keyrock, Spectral and Gearbox
+
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -60,17 +63,17 @@ synopsis:
 date: 2022-04-18
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '12:30'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '19:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://www.eventbrite.com/e/defi-in-2022-tickets-318796397607
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,7 +81,7 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: Volkshotel
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
