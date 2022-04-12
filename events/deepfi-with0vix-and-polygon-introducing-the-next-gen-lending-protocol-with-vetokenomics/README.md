@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: DeepFi with0VIX and Polygon - Introducing the Next-Gen Lending Protocol with VeTokenomics
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  0VIX, the upcoming Polygon native core lending protocol is teaming up with Polygon for a small roundtable around veTokenomics and DeFi 2.0
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: DeepFi with0VIX and Polygon - Introducing the Next-Gen Lending Protocol with VeTokenomics
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,34 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    0VIX, the next generation Money-Market Protocol will be hosting a DeFi after hour drinks with none other than Ethereum´s nr1 L2 scaling solution, Polygon, at Devconnect in Amsterdam!
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
-
+    Meet the people behind Polygon and 0VIX, the protocol that will introduce the next generation of veTokenomics, which is currently in public beta and will go live soon.
+  -
+    Enjoy food, drinks, music and one of the most amazing venues of Amsterdam.
+  -
+    We promise to prepare an entertaining and open stage and will present the next generation of veTokenomics, how it can boost the development of more democratized financial instruments and reveal for the first time the technical paper of our in-house simulated dynamic interest rate model which supersedes the jump rate model. This innovation ensures the retention of liquidity in the protocol during times of excess market volatility.
+  -
+    Who's invited?  Everyone! If you are a DeFi enthusiast, please bless us with your attendance!  We encourage you to unleash your DEGEN mode, and let's have a hearty talk!
+  -
+    (Speaker list behind registration link)
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-21
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
 endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://www.eventbrite.com/e/deepfi-with-polygon-and-0vix-introducing-the-next-gen-lending-protocol-tickets-318697230997
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +85,11 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: Adam Tower First Floor
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Overhoeksplein 1, 1031 KS Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
