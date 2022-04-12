@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: b.Art Bar
+title: FORKIST - DAOs side gathering
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Drinks and NFT's every day of DevConnect at Meet Berlage
+  The event is a sidechain of DAOist - Global Governance Gathering bringing leading DAOists and DAOplomats in the space.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: b.Art Bar
+name: FORKIST - DAOs side gathering
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,27 @@ name: b.Art Bar
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Everyday from 18h to 20h drinks will be served at the Meet Berlage lobby to leave work behind and get ready for the cultural vibe of the Amsterdam nightlife.
+    We are getting together everyone interested in connecting around the topic of DAOs; to share experience, network, deepen connections and solve challenges.
   -
-    In the b.Art Bar artists exploring the power of NFT’s are taken into the light of the Ethereum community. Artworks are being displayed, DJ’s fill the bar with eminent vibes while performance artists also take the floor. Have a beer and enjoy!
+    18th April, 14:00 - 17:00 (masterminds and discussions) and 19th April, 12:00 - 15:00 (brunch, chat)
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-18
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate: 2022-04-19
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '12:00'
 # Time when the event ends. Can be left empty.
-endTime: '20:00'
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://b-art-bar.blockdam.nl
+tickets: https://www.eventbrite.com/e/forkist-daos-side-gathering-eth-amsterdam-registration-319057538687
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +78,11 @@ tickets: https://b-art-bar.blockdam.nl
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Meet Berlage lobby
+venue: Upon registration, close to DAOist location
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Oudebrugsteeg 9, 1012 JN Amsterdam, Netherlands
+address: Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +91,7 @@ address: Oudebrugsteeg 9, 1012 JN Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: drink
+category: event
 
 
 #################
