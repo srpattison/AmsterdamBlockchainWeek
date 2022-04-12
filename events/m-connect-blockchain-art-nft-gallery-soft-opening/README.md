@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: M-Connect - Blockchain Art & NFT Gallery Soft Opening
+title: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -41,7 +41,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: M-Connect - Blockchain Art & NFT Gallery Soft Opening
+name: MHOUSE ✖ NFT.AMS ✖ Amsterdam Blockchain Week
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,12 +50,12 @@ name: M-Connect - Blockchain Art & NFT Gallery Soft Opening
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The M-AMS Gallery will open in May. We will show a preview of some blockchain art.
+    Join MHOUSE, NFT.AMS and The Dutch Web3 Community for an evening full of NFTs! Enjoy expert speakers, free drinks, and beautiful art
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-21
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
