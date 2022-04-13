@@ -16,7 +16,7 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> the AMS Blockchain Week</h2>
+        <h2 class="home_about-title"><b>About</b> the Amsterdam Blockchain Week</h2>
         <Content custom/>
       </div>
     </div>
@@ -24,7 +24,7 @@
       <div class="home-wrap">
         <div class="features" v-if="data.features && data.features.length">
           <div class="title">
-            <h2><b>Venues</b> of the AMS Blockchain Week</h2>
+            <h2><b>Venues</b> of the Amsterdam Blockchain Week</h2>
           </div>
           <div class="feature" v-for="feature in data.features">
             <h2>{{ feature.title }}</h2>
@@ -105,7 +105,7 @@ export default {
     background-size cover
     background-position left top
     background-repeat no-repeat
-    
+
     color #fff
     .home-wrap
       padding 80px 1.5rem 55px
@@ -170,7 +170,7 @@ export default {
     p
       color #fff
       margin 15px 0
-      
+
   .footer
     padding 0.9rem 3.9rem
     background #000
@@ -196,7 +196,7 @@ export default {
       box-sizing border-box
       font-size 18px
       &:hover
-        border 1px solid $accentColor 
+        border 1px solid $accentColor
       a
         color #fff
 
@@ -234,7 +234,7 @@ export default {
         font-size 2rem
         margin  0 1.2rem 2rem
       .description, .action
-        margin 0.2rem auto 0.8rem 
+        margin 0.2rem auto 0.8rem
       .description
         font-size 1.2rem
       .action-button
@@ -249,12 +249,5 @@ export default {
         order: 1
         margin: 20px 0 0 0
         font-size: 12px
-        
+
 </style>
-
-
-
-
-
-
-
