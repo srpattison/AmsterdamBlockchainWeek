@@ -16,7 +16,7 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> the Amsterdam Blockchain Week</h2>
+        <h2 class="home_about-title"><b>About</b> Amsterdam Blockchain Week</h2>
         <Content custom/>
       </div>
     </div>
