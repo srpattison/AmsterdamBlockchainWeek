@@ -89,7 +89,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
