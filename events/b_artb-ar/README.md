@@ -34,7 +34,7 @@ title: b.Art Bar
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Drinks and NFT's every day of DevConnect at Meet Berlage
+  Drinks and you portal to Amsterdam culture and nightlife
 
 #####################
 ### EVENT DETAILS ###
@@ -50,9 +50,7 @@ name: b.Art Bar
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Everyday from 18h to 20h drinks will be served at the Meet Berlage lobby to leave work behind and get ready for the cultural vibe of the Amsterdam nightlife.
-  -
-    In the b.Art Bar artists exploring the power of NFT’s are taken into the light of the Ethereum community. Artworks are being displayed, DJ’s fill the bar with eminent vibes while performance artists also take the floor. Have a beer and enjoy!
+    During Devconnect the Blockdam Community hosts the b.Art Bar. Share drinks and some laughs at the the end of an exhausting working day. Our community is also available if you are looking for ideas to enjoy the Amsterdam culture and nightlife. Drop in and enjoy!
 
 
 # The date should be in the format year-month-day (ISO 8601).
