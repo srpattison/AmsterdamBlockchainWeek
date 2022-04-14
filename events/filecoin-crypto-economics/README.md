@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Filecoin CryptoEconomics
+title: Filecoin CryptoEconomics Day
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A series oft talks by experts on the future of Filecoin's unique crypto economics.
+  A series of talks by experts on the future of Filecoin's unique cryptoeconomics.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Filecoin CryptoEconomics
+name: Filecoin CryptoEconomics Day
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,22 +50,22 @@ name: Filecoin CryptoEconomics
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Cryptoeconomics is at the heart of developing a successful blockchain ecosystem.  This event will describe the present and future of Filecoin's unique  crypto economic system.
+    Cryptoeconomics is at the heart of developing a successful blockchain ecosystem.  This event will describe the present and future of Filecoin's unique  cryptoeconomic system with an emphasis on ecosystem growth opportunities.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-20
+date: 2022-04-22
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate:
+endDate: 2022-04-22
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
-# Example: '18:00'
-time: '10:00'
+# Example: '12:00'
+time: '12:00'
 # Time when the event ends. Can be left empty.
-endTime: '14:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://www.notion.so/pl-strflt/Filecoin-CryptoEconomics-405ae044145749cda2def10b6a56b0be
@@ -73,14 +73,14 @@ tickets: https://www.notion.so/pl-strflt/Filecoin-CryptoEconomics-405ae044145749
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBD
+venue: Eye Film Museum
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: IJpromenade 1, 1031 KT Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
