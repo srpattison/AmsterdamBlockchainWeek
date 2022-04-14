@@ -33,7 +33,7 @@ title: Art and the Blockchain
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: 
+description:
   A unique exhibition of experimental artists in the Ethereum ecosystem.
 
 #####################
@@ -62,16 +62,16 @@ endDate: 2022-04-23
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '10:00'
+time: '13:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://artandtheblockchain.org/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Rozenstraat
