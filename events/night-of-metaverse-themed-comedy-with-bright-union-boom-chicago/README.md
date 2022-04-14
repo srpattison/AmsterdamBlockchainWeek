@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: <Scale, Bet, Play, Repeat> mainnet pre-party by Azuro x Gnosis Сhain
+title: Night of Metaverse-themed comedy with Bright Union + Boom Chicago
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Let loose in a jungle techno vibe party and join the crypto raver community
+  Bright Union invites you to join them for a night of metaverse themed comedy at the hottest comedy club in Amsterdam.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: <Scale, Bet, Play, Repeat> mainnet pre-party by Azuro x Gnosis Сhain
+name: Night of Metaverse-themed comedy with Bright Union + Boom Chicago
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,13 +50,21 @@ name: <Scale, Bet, Play, Repeat> mainnet pre-party by Azuro x Gnosis Сhain
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Don't miss the chance to join our pre-mainnet launch party by Azuro and Gnosis Chain.
+    Bright Union is excited to bring you to Boom Chicago, the hottest comedy theatre in Amsterdam! In a moment of divine serendipity, their latest Metaverse-themed show premiers during DevConnect week in Amsterdam.
   -
-    Free bar and Cocktail dinner  🍸  -  POAP treasure hunting  -  Featuring The Other Side Label   ✨
+    Bright Union is a DeFi insurance aggregator, based in Amsterdam and Utrecht. For this week, Bright Union has changed their corporate mission to ‘helping DevConnect attendees have the best possible time in Amsterdam’.
   -
-    Line up; Roswitha - 20:00PM - 22:30PM,  Trippin Jaguar - 22:30PM - 01:00AM
-  -  
-    Bring your best dancing shoes! 🕺
+    🎟️Get your ticket here!🎟️ https://fareharbor.com/embeds/book/boomchicago/items/345863/availability/891771182/book/?full-items=yes
+  -
+    About Into the Metaverse with Boom Chicago
+  -
+    Choose your avatar, escape reality and join the cast of Boom Chicago for a hilarious, live, in-person comedy show at the edge of the metaverse. Meta Luck Next Time! is the new hit show from the comedians at Boom Chicago in Amsterdam.
+  -
+    We all know the metaverse is coming, but what will we do there? Meet friends? Kill time? Learn things? Solve problems? Or just ‘Metaverse and Chill?’ Will it be a joy like social media is today, or will it be a hell like social media is today? You’re guaranteed to laugh out loud hard at Boom Chicago’s trademark mix of topical comedy plus music and tech.
+  -
+    Tickets and Dates
+  -
+    On Tuesday 19th April, Bright Union invites you for a night of laughs! Follow the link to book your discounted ticket of €15 (full-price normally at €22)
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -71,22 +79,22 @@ endDate:
 # Example: '18:00'
 time: '20:00'
 # Time when the event ends. Can be left empty.
-endTime: '02:00'
+endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.co.uk/e/scale-bet-play-repeat-mainnet-pre-party-by-azuro-x-gnosis-hain-tickets-316785763747?aff=erelpanelorg&keep_tld=1
+tickets: https://brightunion.medium.com/bright-union-invites-you-to-boom-chicago-crypto-comedy-into-the-metaverse-9c4d9f70c72e
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+price: 15
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Chin Chin Club
+venue: Boom Chicago
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 133 Rozengracht,  1016 LV Amsterdam, Netherlands
+address: Rozengracht 117, 1016 LV Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -95,7 +103,7 @@ address: 133 Rozengracht,  1016 LV Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: party
+category: event
 
 
 #################

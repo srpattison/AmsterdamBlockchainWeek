@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: <Scale, Bet, Play, Repeat> mainnet pre-party by Azuro x Gnosis Сhain
+title: "Oh Snap! It's MetaMask!"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Let loose in a jungle techno vibe party and join the crypto raver community
+  Developers, join us for a MetaMask Snaps workshop!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: <Scale, Bet, Play, Repeat> mainnet pre-party by Azuro x Gnosis Сhain
+name: "Oh Snap! It's MetaMask!"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,18 +50,14 @@ name: <Scale, Bet, Play, Repeat> mainnet pre-party by Azuro x Gnosis Сhain
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Don't miss the chance to join our pre-mainnet launch party by Azuro and Gnosis Chain.
+    We're inviting developers to hangout with us and learn about MetaMask Snaps -> https://docs.metamask.io/guide/snaps.html
   -
-    Free bar and Cocktail dinner  🍸  -  POAP treasure hunting  -  Featuring The Other Side Label   ✨
-  -
-    Line up; Roswitha - 20:00PM - 22:30PM,  Trippin Jaguar - 22:30PM - 01:00AM
-  -  
-    Bring your best dancing shoes! 🕺
+    In this 4-hour workshop, you will learn everything you need to know in order to start developing Snaps. Be sure to bring a laptop with git, a Chromium browser, and Node.js 14 or later installed.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -69,12 +65,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '20:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
-endTime: '02:00'
+endTime: '14:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.co.uk/e/scale-bet-play-repeat-mainnet-pre-party-by-azuro-x-gnosis-hain-tickets-316785763747?aff=erelpanelorg&keep_tld=1
+tickets: https://bit.ly/MetaMaskDevconnect
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -82,11 +78,11 @@ tickets: https://www.eventbrite.co.uk/e/scale-bet-play-repeat-mainnet-pre-party-
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Chin Chin Club
+venue: Koninklijke Industrieele Groote Club
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 133 Rozengracht,  1016 LV Amsterdam, Netherlands
+address:  Dam 27, 1012 JS Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -95,7 +91,7 @@ address: 133 Rozengracht,  1016 LV Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: party
+category: workshop
 
 
 #################
