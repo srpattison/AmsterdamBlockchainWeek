@@ -95,7 +95,7 @@ address: 133 Rozengracht,  1016 LV Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: drink
+category: party
 
 
 #################
