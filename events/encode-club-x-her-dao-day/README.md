@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: Encode Club x H.E.R. DAO Day
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  Encode Club x H.E.R. DAO Day is a whole-day event in partnership with H.E.R. DAO consisting of several workshops on topics such as Blockchain 101, Prototyping, Getting hired in Web3, and more, with dedicated breaks for socializing.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: Encode Club x H.E.R. DAO Day
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,24 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
-  -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
-
+    Encode Club x H.E.R. DAO Day is a whole-day event in partnership with H.E.R. DAO consisting of several workshops on topics such as Blockchain 101, Prototyping, Getting hired in Web3, and more, with dedicated breaks for socializing.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://medium.com/encode-club/encode-club-x-h-e-r-dao-day-in-amsterdam-register-now-471a694218ca?source=friends_link&sk=7eee54492c9cf6dcde096ec29aece5f7
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +75,11 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: The Skyscape
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: WEESPERPLEIN 4B, 1018 XA AMSTERDAM, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +88,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: workshop
 
 
 #################
