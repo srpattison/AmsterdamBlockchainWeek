@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Art and the Blockchain
+title: Encode Club x H.E.R. DAO Day
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A unique exhibition of experimental artists in the Ethereum ecosystem.
+  Encode Club x H.E.R. DAO Day is a whole-day event in partnership with H.E.R. DAO consisting of several workshops on topics such as Blockchain 101, Prototyping, Getting hired in Web3, and more, with dedicated breaks for socializing.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Art and the Blockchain
+name: Encode Club x H.E.R. DAO Day
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -49,36 +49,37 @@ name: Art and the Blockchain
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - The general conception of NFTs is surrounded by myth and misunderstanding. NFTs are nothing more than linked images, and worse, they are artistically uninteresting. This show handpicks a selection of NFTs from the plethora that is out there to unveil some myths, and to show the width and depth of this cultural phenonemon. More specifically, the show zooms in on the expanding field of fine art within the context of the blockchain. In a tradition that started in the 60's of the previous century, this is just the last step in the evolution of Digital Art.
-  - Showcasing artists working digitally as from the mid nineties. Blockchain art is a next step in networked art, if you like it or not. Showcasing NFTs as generative works, instructional pieces, self destroying works, AR virtual installations, mutating compositions, hybrid web and web3 works. Conceptual, textual, abstract and figurative works. Absurd, mythological, contemplative, wonderous and hilarious works.
+  -
+    Encode Club x H.E.R. DAO Day is a whole-day event in partnership with H.E.R. DAO consisting of several workshops on topics such as Blockchain 101, Prototyping, Getting hired in Web3, and more, with dedicated breaks for socializing.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-21
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-23
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '13:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
-endTime: '21:00'
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://artandtheblockchain.org/
+tickets: https://medium.com/encode-club/encode-club-x-h-e-r-dao-day-in-amsterdam-register-now-471a694218ca?source=friends_link&sk=7eee54492c9cf6dcde096ec29aece5f7
 
-# If the entrance is free, set zero (0) as the price, or leave it empty.
+# If the entrance is free, set zero (0) as the price
+# If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Rozenstraat
+venue: The Skyscape
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Rozenstraat 59, 1016 NN Amsterdam, Netherlands
+address: WEESPERPLEIN 4B, 1018 XA AMSTERDAM, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -87,7 +88,7 @@ address: Rozenstraat 59, 1016 NN Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: exhibition
+category: workshop
 
 
 #################
@@ -99,6 +100,39 @@ category: exhibition
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers: []
+# speakers:
+#  -
+    # # Required.
+    #name: Nathan Sexer
+
+    # # Can be left empty.
+    #title: Title?
+
+    # # Can be left empty.
+    #company: Blockchainweek.fr
+
+    # # The full URL, including http(s)://. Can be left empty.
+    #companyURL: https://ethcc.io/
+
+    # # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+    # # Can be left empty.
+    #twitter: nathansexer
+
+    # # The full URL, including http(s)://. Can be left empty.
+    #website: https://blockchainweek.fr
+
+    # # The bio is a single line.
+    # # Linebreaks are ignored, but they _must_ start with two spaces.
+    #bio: Hi.
+    #   This is Nathan.
+    #name: See all events
+    #title: President
+    #company: HERE
+    #companyURL: https://devconnect.org/schedule
+    #twitter: efdevconnect
+    #website: https://jdetychey.com
+    #bio: Jerome De Tychey is Jerome,
+    #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
