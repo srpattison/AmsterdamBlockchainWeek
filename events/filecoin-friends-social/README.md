@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: IPFS Meetup
+title: Filecoin & Friends Social
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us for an exciting IPFS Meetup featuring talks and workshops from Fluence Labs, Chainsafe, IPFS and Protocol Labs. Meet, connect and learn with other members of the IPFS community! Stick around after the Meetup for the Filecoin & Friends Social. We look forward to seeing you there!
+  Join us for an evening of light bites, refreshing beverages, great company and conversations at the Filecoin & Friends Social! Interested in IPFS? Join us earlier in the day for the IPFS Meetup starting at 15:00 CEST.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: IPFS Meetup
+name: Filecoin & Friends Social
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,7 @@ name: IPFS Meetup
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Join us for an exciting IPFS Meetup featuring talks and workshops from Fluence Labs, Chainsafe, IPFS and Protocol Labs. Meet, connect and learn with other members of the IPFS community! Stick around after the Meetup for the Filecoin & Friends Social. We look forward to seeing you there!
+    Join us for an evening of light bites, refreshing beverages, great company and conversations at the Filecoin & Friends Social! Interested in IPFS? Join us earlier in the day for the IPFS Meetup starting at 15:00 CEST.
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -63,12 +63,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '15:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime: '18:00'
+endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://lu.ma/IPFS.Devconnect
+tickets: https://lu.ma/Filecoin.Devconnect
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -89,7 +89,7 @@ address: Prinsengracht 587, 1016 HT Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
