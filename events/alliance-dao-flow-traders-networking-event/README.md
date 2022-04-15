@@ -54,9 +54,9 @@ synopsis:
   -
     Some information about the hosts ->
   -
-    * Alliance DAO is the leading Web3 accelerator and founder community.
+    Alliance DAO is the leading Web3 accelerator and founder community.
   -
-    * Flow Traders is a technology driven global market maker, historically specialized in Exchange Traded Products (ETPs), and has also been active in the Digital Assets space since 2017. Flow Traders has a large trading footprint in the global financial  market and a fast growing network of both institutional and crypto-native firms. We have a strong focus on supporting the Digital Asset ecosystem, focusing on Web3 initiatives, by providing capital and early access to liquidity on the major crypto venues.
+    Flow Traders is a technology driven global market maker, historically specialized in Exchange Traded Products (ETPs), and has also been active in the Digital Assets space since 2017. Flow Traders has a large trading footprint in the global financial  market and a fast growing network of both institutional and crypto-native firms. We have a strong focus on supporting the Digital Asset ecosystem, focusing on Web3 initiatives, by providing capital and early access to liquidity on the major crypto venues.
 
 
 # The date should be in the format year-month-day (ISO 8601).
