@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DAO Operators High Tea
+title: DAO Operator's High Tea 🌷
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -41,7 +41,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DAO Operators High Tea
+name: DAO Operator's High Tea 🌷
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -62,9 +62,9 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '11:00'
+time: '12:00'
 # Time when the event ends. Can be left empty.
-endTime: '14:00'
+endTime: '16:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://form.jotform.com/220995774675070
