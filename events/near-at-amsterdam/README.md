@@ -34,7 +34,7 @@ title: NEAR@Amsterdam
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us in the Zuiderkerk for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR's Dev Team, Octopus Network, Brave, Aurora, AstroDAO, Zaisan's MyD on NEAR etc.
+  Join us in the Boom Chicago for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR Developers, Community Members, and Ecosystem Partners.
 
 #####################
 ### EVENT DETAILS ###
@@ -57,20 +57,20 @@ synopsis:
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-24
+date: 2022-04-21
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-24
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '09:30'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime:  '18:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://forms.gle/C6UF14kC5upre9Wz6
+tickets: https://neardevconnect.splashthat.com/
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,7 +78,7 @@ tickets: https://forms.gle/C6UF14kC5upre9Wz6
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Zuiderkerk
+venue: BOOM Chicago
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
