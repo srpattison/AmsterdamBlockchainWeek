@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: NEAR@Amsterdam
+title: Neon Talks
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us in the Boom Chicago for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR Developers, Community Members, and Ecosystem Partners.
+  Neon Talks is a meeting of developers, startups and investors who are creating the future of the Web3. Powered by https://neon-labs.org/
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: NEAR@Amsterdam
+name: Neon Talks
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,9 +50,13 @@ name: NEAR@Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The NEAR philosophy is about simple, secure, and scalable technology that will be in a multi chain environment. NEAR is eliminating the barriers to Web 3 adoption. With high speeds, low fees, and progressive UX, NEAR’s climate-neutral blockchain is ready for explosive growth.
+    Neon Talks is a meeting of developers, startups and investors who are creating the future of the Web3. At the event we will discuss all stages of project creation, including the search for ideas and teams, product development and attracting investment.
   -
-    We will be addressing NEAR, the Aurora EVM, the Rainbow Bridge, the Data shards and many more
+    Zero to the Web3. The event is dedicated to highlighting different projects, including reports, panel discussions and workshops.
+  -
+    We welcome developers, startups and investors to join us for the talk about Web3.
+  -
+    Powered by https://neon-labs.org/
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -65,12 +69,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:30'
+time: '10:30'
 # Time when the event ends. Can be left empty.
-endTime:  '18:30'
+endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://neardevconnect.splashthat.com/
+tickets: https://neon-labs.org/neontalks
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,7 +82,7 @@ tickets: https://neardevconnect.splashthat.com/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: BOOM Chicago
+venue: ​​Eye Filmmuseum
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany

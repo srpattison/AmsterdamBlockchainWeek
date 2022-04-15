@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: NEAR@Amsterdam
+title: Ankr + Polygon Present; Amsterdam Blockchain Week Mansion Party
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us in the Boom Chicago for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR Developers, Community Members, and Ecosystem Partners.
+  What could be better than spending the night with all your favorite people in Amsterdam? Doing it in a mansion :)
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: NEAR@Amsterdam
+name: Ankr + Polygon Present; Amsterdam Blockchain Week Mansion Party
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,10 +50,9 @@ name: NEAR@Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The NEAR philosophy is about simple, secure, and scalable technology that will be in a multi chain environment. NEAR is eliminating the barriers to Web 3 adoption. With high speeds, low fees, and progressive UX, NEAR’s climate-neutral blockchain is ready for explosive growth.
+    Ankr and Polygon invite you to an unforgettable night in one of Amsterdam's most amazing venues. Open Bar and fun surprises all night, this house has many rooms to explore including the mini nightclub in the basement.
   -
-    We will be addressing NEAR, the Aurora EVM, the Rainbow Bridge, the Data shards and many more
-
+    ​We have limited capacity for this event but we will try to accommodate everyone we can. Special access to any projects currently using Ankr RPC and Infrastructure services :)
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -65,12 +64,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:30'
+time: '21:00'
 # Time when the event ends. Can be left empty.
-endTime:  '18:30'
+endTime: '02:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://neardevconnect.splashthat.com/
+tickets: https://lu.ma/AnkrRPC
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +77,11 @@ tickets: https://neardevconnect.splashthat.com/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: BOOM Chicago
+venue: The Mayer Manor
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Nes 118, 1012 KE Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +90,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: party
 
 
 #################

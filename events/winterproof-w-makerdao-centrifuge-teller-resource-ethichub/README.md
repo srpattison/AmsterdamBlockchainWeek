@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: NEAR@Amsterdam
+title: WINTERPROOF w/ MakerDAO, Centrifuge, Teller, ReSource, Ethichub
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us in the Boom Chicago for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR Developers, Community Members, and Ecosystem Partners.
+  A Panel for Defi Projects Integrating with Real World Banking & Commerce.  At this panel, you’ll hear from protocols bridging DeFi with credit, assets, payments, and more to expand access to vital resources and economically empower people around the world through the decentralized revolution.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: NEAR@Amsterdam
+name: WINTERPROOF w/ MakerDAO, Centrifuge, Teller, ReSource, Ethichub
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,14 +50,14 @@ name: NEAR@Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The NEAR philosophy is about simple, secure, and scalable technology that will be in a multi chain environment. NEAR is eliminating the barriers to Web 3 adoption. With high speeds, low fees, and progressive UX, NEAR’s climate-neutral blockchain is ready for explosive growth.
+    A Panel for Defi Projects Integrating with Real World Banking & Commerce.  At this panel, you’ll hear from protocols bridging DeFi with credit, assets, payments, and more to expand access to vital resources and economically empower people around the world through the decentralized revolution.
   -
-    We will be addressing NEAR, the Aurora EVM, the Rainbow Bridge, the Data shards and many more
+    DeFi has accomplished the unthinkable by disrupting the financial industry away from centralized models. Yet there is still more work to do to develop protocols that serve people and industries outside of the DeFi world itself. When crypto starts to integrate with real world assets, the system becomes less susceptible to bull and bear markets, insider trading, wealth consolidation, and more - and we can start to build winterproof economies that solve our most pressing global issues.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-21
+date: 2022-04-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -65,12 +65,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:30'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime:  '18:30'
+endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://neardevconnect.splashthat.com/
+tickets: https://www.eventbrite.com/e/316462175887/
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,7 +78,7 @@ tickets: https://neardevconnect.splashthat.com/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: BOOM Chicago
+venue: TBD
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany

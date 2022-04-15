@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: NEAR@Amsterdam
+title: On-ramp users to web3 over Ping Pong + Beers with Transak
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us in the Boom Chicago for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR Developers, Community Members, and Ecosystem Partners.
+  Bring your ping pong A game! Join Transak for a night of fun competition and conversation at Houes of Ping.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: NEAR@Amsterdam
+name: On-ramp users to web3 over Ping Pong + Beers with Transak
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,14 +50,19 @@ name: NEAR@Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The NEAR philosophy is about simple, secure, and scalable technology that will be in a multi chain environment. NEAR is eliminating the barriers to Web 3 adoption. With high speeds, low fees, and progressive UX, NEAR’s climate-neutral blockchain is ready for explosive growth.
+    With the lofty goal of bringing in the next billion+ users to web3, we could all use a little break.
   -
-    We will be addressing NEAR, the Aurora EVM, the Rainbow Bridge, the Data shards and many more
+    The Transak team invites DevCon attendees to join us for a night of fun competition and conversation. From 7pm to close, we're hosting 150 attendees at the House of Ping Pong.   Through this event, we genuinely hope to bring together our community for a night of fun competition and conversation.
+  -
+    While we're often busy behind our screens, it's important that we take a moment to press pause and actually enjoy each other's company IRL.
+  -
+    We can't wait to mix, mingle, and make some new friends. 🎉
+
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-21
+date: 2022-04-23
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -65,12 +70,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:30'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime:  '18:30'
+endTime: '23:59'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://neardevconnect.splashthat.com/
+tickets: https://www.eventbrite.com/e/devconnect-on-ramp-users-to-web3-over-ping-pong-beers-with-transak-tickets-321538940627
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +83,11 @@ tickets: https://neardevconnect.splashthat.com/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: BOOM Chicago
+venue: PONG House of Ping
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Spaarndammerstraat 460, 1013 SZ Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +96,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################

@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: NEAR@Amsterdam
+title: Alliance DAO <> Flow Traders - Networking Event
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Join us in the Boom Chicago for a series of talks, panels, workshops, and social events. We are featuring sessions with NEAR Developers, Community Members, and Ecosystem Partners.
+  The event will be co-hosted by the Alliance DAO and Flow Traders. The event will be focused on builders/operators and is a great way to connect.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: NEAR@Amsterdam
+name: Alliance DAO <> Flow Traders - Networking Event
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,9 +50,13 @@ name: NEAR@Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The NEAR philosophy is about simple, secure, and scalable technology that will be in a multi chain environment. NEAR is eliminating the barriers to Web 3 adoption. With high speeds, low fees, and progressive UX, NEAR’s climate-neutral blockchain is ready for explosive growth.
+    The event will be co-hosted by the Alliance DAO and Flow Traders. The event will be focused on builders/operators and is a great way to connect.
   -
-    We will be addressing NEAR, the Aurora EVM, the Rainbow Bridge, the Data shards and many more
+    Some information about the hosts ->
+  -
+    * Alliance DAO is the leading Web3 accelerator and founder community.
+  -
+    * Flow Traders is a technology driven global market maker, historically specialized in Exchange Traded Products (ETPs), and has also been active in the Digital Assets space since 2017. Flow Traders has a large trading footprint in the global financial  market and a fast growing network of both institutional and crypto-native firms. We have a strong focus on supporting the Digital Asset ecosystem, focusing on Web3 initiatives, by providing capital and early access to liquidity on the major crypto venues.
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -65,12 +69,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:30'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime:  '18:30'
+endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://neardevconnect.splashthat.com/
+tickets: https://docs.google.com/forms/d/15mV5YBYpMSucSqBSWKeIVl5vEzj7hcaTu-g5x-DW9JY/viewform?ts=6244a705&edit_requested=true
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,7 +82,7 @@ tickets: https://neardevconnect.splashthat.com/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: BOOM Chicago
+venue: Available after registration
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
@@ -91,7 +95,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
