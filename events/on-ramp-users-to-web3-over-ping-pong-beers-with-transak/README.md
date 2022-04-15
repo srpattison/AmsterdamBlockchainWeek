@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: On-ramp users to web3 over Ping Pong + Beers with Transak
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
+  Bring your ping pong A game! Join Transak for a night of fun competition and conversation at Houes of Ping.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: On-ramp users to web3 over Ping Pong + Beers with Transak
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +50,32 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    With the lofty goal of bringing in the next billion+ users to web3, we could all use a little break.
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
+    The Transak team invites DevCon attendees to join us for a night of fun competition and conversation. From 7pm to close, we're hosting 150 attendees at the House of Ping Pong.   Through this event, we genuinely hope to bring together our community for a night of fun competition and conversation.
+  -
+    While we're often busy behind our screens, it's important that we take a moment to press pause and actually enjoy each other's company IRL.
+  -
+    We can't wait to mix, mingle, and make some new friends. 🎉
+
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-23
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '23:59'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://www.eventbrite.com/e/devconnect-on-ramp-users-to-web3-over-ping-pong-beers-with-transak-tickets-321538940627
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +83,11 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: PONG House of Ping
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Spaarndammerstraat 460, 1013 SZ Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -91,7 +96,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
