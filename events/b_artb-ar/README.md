@@ -34,7 +34,7 @@ title: b.Art Bar
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Drinks and you portal to Amsterdam culture and nightlife
+  Your portal to Amsterdam culture and nightlife during Devconnect
 
 #####################
 ### EVENT DETAILS ###
