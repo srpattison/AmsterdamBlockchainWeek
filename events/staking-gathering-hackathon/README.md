@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Staking Gathering
+title: Staking Gathering Hackathon
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Everything about ETH staking.
+  Build your staking related project with mentors and support. Get a chance at winning some nice prizes.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Staking Gathering
+name: Staking Gathering Hackathon
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,24 +50,30 @@ name: Staking Gathering
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Everything about ETH staking.
+    EthStaker is hosting a hackathon on the final day of our Staking Gathering in Amsterdam, on April 21st.  Our goal of the hackathon is to create new tools related to staking on Ethereum.
   -
-    We welcome New Stakers interested in learning more about staking, Experienced Stakers looking to learn about new trends, and upcoming topics, Developers interested in contributing to open-source solo staking projects, and EthStaker community members that just want to hang out!
+    Register your project on https://3861k9xddd9.typeform.com/to/MBSxe7uN
+  -
+    Apply for a free hackathon ticket on https://3861k9xddd9.typeform.com/to/it5h3txv
+  -
+    We will have free food, free drinks, plenty of room, tables, WiFi, good coffee and everything a good hacker needs to complete his wildest dreams.
+  -
+    Prizes 1st place 5,000 USDC - 2nd place 3,000 USDC - 3rd place 2,000 USDC
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-21
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-21
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
 time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://ethstaker.cc/ethstaker-devconnect-2022/
@@ -90,7 +96,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: hackathon
 
 
 #################
