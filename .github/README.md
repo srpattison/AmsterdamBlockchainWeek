@@ -16,5 +16,5 @@ This repository contains the code for the website, which can be reached at
 
 ## Contributing
 Either:
-- Complete the event submission form [here](https://docs.google.com/forms/d/e/1FAIpQLSe12ruWqQfGoBi6eEHjyRejaGun6cg45hvZwtvRwmt82BQ5Bg/viewform), or
+- Complete the event submission form [here](http://bit.ly/amsblockchainweek), or
 - Clone this repo, duplicate `events/devconnect-amsterdam` folder, and follow the instructions in that folder's README.md. Once completed, submit a PR back to this Amsterdam Blockchain Week repo.
