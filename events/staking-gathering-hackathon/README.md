@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Sky Party;  Blockchain Week Mixer
+title: Staking Gathering Hackathon
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Social Mixer hosted by IOSG Ventures x Zonff Partners x Foresight Ventures
+  Build your staking related project with mentors and support. Get a chance at winning some nice prizes.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Sky Party;  Blockchain Week Mixer
+name: Staking Gathering Hackathon
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,15 @@ name: Sky Party;  Blockchain Week Mixer
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Zonff Partners x IOSG Ventures x Foresight Ventures host a social party for all BUIDLERs in Amsterdam Blockchain Week, Devconnect & ETHAmsterdam. There will be some chemistry between entrepreneurs, investors, builders, media, etc.
+    EthStaker is hosting a hackathon on the final day of our Staking Gathering in Amsterdam, on April 21st.  Our goal of the hackathon is to create new tools related to staking on Ethereum.
+  -
+    Register your project on https://3861k9xddd9.typeform.com/to/MBSxe7uN
+  -
+    Apply for a free hackathon ticket on https://3861k9xddd9.typeform.com/to/it5h3txv
+  -
+    We will have free food, free drinks, plenty of room, tables, WiFi, good coffee and everything a good hacker needs to complete his wildest dreams.
+  -
+    Prizes 1st place 5,000 USDC - 2nd place 3,000 USDC - 3rd place 2,000 USDC
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -63,20 +71,19 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '21:00'
+time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime: '01:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://docs.google.com/spreadsheets/d/13HKgaYbSOJP_LJ91uOOmNdYRzL4DutH3_0cy3KVb5OQ/edit#gid=0
+tickets: https://ethstaker.cc/ethstaker-devconnect-2022/
 
-# If the entrance is free, set zero (0) as the price
-# If there is no info on the price or pricing is too complex to put here, leave it empty.
+# If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+# price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Skylounge Amsterdam
+venue: Felix Meritis
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
@@ -89,7 +96,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: party
+category: hackathon
 
 
 #################
