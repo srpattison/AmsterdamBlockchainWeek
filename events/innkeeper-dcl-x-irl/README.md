@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Advanced Bootcamp; Bridging Web2 to Web 3
+title: Innkeeper DCL X IRL
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Workshop for developers who already have some Web3 experience.
+  The Decentraland club Innkeeper.eth is throwing it's first IRL party with a window between the physical and digital worlds!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Advanced Bootcamp; Bridging Web2 to Web 3
+name: Innkeeper DCL X IRL
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,13 +50,16 @@ name: Advanced Bootcamp; Bridging Web2 to Web 3
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    👷‍♂️👷‍♀️This workshop is for developers who already have some Web3 experience!
+    Innkeeper.eth hosts 2x shows in Decentraland every tuesday & thursday, with it's first physical presence in Amsterdam this April 21st!
   -
-    The beginner bootcamp will provide you with necessary skills and knowledge to take part in this workshop.
+    LIVE DJs & VJ Pipaluk.io will remix submited NFTs to be visually remixed to the music.
   -
-    👩‍🏫👨‍🏫During this one day, offline bootcamp, TrueFi Engineering team will take your Web 3 skills to the next level!
+    Everyone who attends will receive a new Innkeeper Melody (music NFT). Melodies are newly commissioned (never before released) songs, available as unlockable content to token holders.
   -
-    Topics - Build dapps using UseDapp - Test smart contracts using Waffle - Deploy smart contracts using Mars
+    The IRL event will be streamed into Decentraland and party-goers in Decentraland will be looking into the IRL party.
+  -
+    Venue will have a bar where you can purchase drinks.
+
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -69,20 +72,20 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '10:00'
+time: '21:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:30'
+endTime: '3:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://forms.gle/pkpSCSb1gzQi58ph6
+tickets: https://innkeeper.link/irl
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+price: 5
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Beurs van Berlage
+venue: Lolaluid
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
@@ -95,7 +98,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: workshop
+category: drink
 
 
 #################
