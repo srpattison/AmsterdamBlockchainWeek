@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         text: 'Submit an Event',
-        link: 'https://docs.google.com/forms/d/e/1FAIpQLSe12ruWqQfGoBi6eEHjyRejaGun6cg45hvZwtvRwmt82BQ5Bg/viewform'
+        link: 'http://bit.ly/amsblockchainweek'
       },
     ],
     logo: 'ams-logo.png',
