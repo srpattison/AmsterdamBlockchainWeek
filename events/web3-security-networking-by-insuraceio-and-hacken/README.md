@@ -28,20 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Recovery Brunch hosted by InsurAce.io, Hacken, Messari, Balancer and Okra Finance
+title: Web3 Security Networking by  InsurAce.io and Hacken
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  We hope you’ve been having a great start to the week, the conference and parties have been amazing, so join us for a Recovery Brunch to get recharged for the second half of the week.
-
+    We have two very exciting announcements from the teams, as well as an exclusive first look at a great new project launching very soon.
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Recovery Brunch hosted by InsurAce.io, Hacken, Messari, Balancer and Okra Finance
+name: Web3 Security Networking by  InsurAce.io and Hacken
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,13 +49,11 @@ name: Recovery Brunch hosted by InsurAce.io, Hacken, Messari, Balancer and Okra 
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    We hope you’ve been having a great start to the week, the conference and parties have been amazing, so join us for a Recovery Brunch to get recharged for the second half of the week.
+    We've got something very special lined up for anyone working in Web3 security... Join us at the DeFi Retreat on Wednesday 20th at 4pm for an exclusive event hosted by InsurAce.io and Hacken.
   -
-    Join us for our Recovery Brunch hosted by InsurAce.io, Hacken, Messari, Balancer and Okra Finance
-  -
-    We'll have breakfast, coffee, and of course some interesting people to speak to.
-  -
-    -> First come first serve <- TICKETS NEEDED FOR ENTRY
+    We have two very exciting announcements from the teams, as well as an exclusive first look at a great new project launching very soon. PURE ALPHA. You do not want to miss out.
+  -    
+    This event is for any developers and team members working in Web3 and Blockchain Security -> Auditors, White Hat Hacking, Bug Bounties, Insurance, Asset Recovery, Cyber Security.
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -69,12 +66,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '11:00'
+time: '16:00'
 # Time when the event ends. Can be left empty.
-endTime: '13:00'
+endTime: '19:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/devconnect-recovery-brunch-tickets-322533545517
+tickets: https://www.eventbrite.com/e/web3-security-networking-exclusive-announcements-devconnect-amsterdam-tickets-322534026957
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -82,7 +79,7 @@ tickets: https://www.eventbrite.com/e/devconnect-recovery-brunch-tickets-3225335
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Bar Italia  
+venue: Bar Italia
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
