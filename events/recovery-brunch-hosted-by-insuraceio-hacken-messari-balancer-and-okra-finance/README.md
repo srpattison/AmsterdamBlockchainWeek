@@ -56,7 +56,7 @@ synopsis:
   -
     We'll have breakfast, coffee, and of course some interesting people to speak to.
   -
-    ** First come first serve ** TICKETS NEEDED FOR ENTRY
+    -> First come first serve <- TICKETS NEEDED FOR ENTRY
 
 
 # The date should be in the format year-month-day (ISO 8601).
