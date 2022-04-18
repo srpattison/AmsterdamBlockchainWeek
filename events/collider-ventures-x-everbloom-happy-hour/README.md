@@ -34,7 +34,7 @@ title: Collider Ventures x Everbloom Happy Hour
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Social networking event to discuss eth, crypto, web3, nfts and more with leading developers, projects and investors in the space.
+  Come join us for some good vibes and afternoon drinks at one of the most charming venues in Amsterdam, Brasserie Nel. We will be talking about NFTs, web3 culture and the new creator economy...Plus, a special NFT photo booth experience for attendees 👀
 
 #####################
 ### EVENT DETAILS ###
