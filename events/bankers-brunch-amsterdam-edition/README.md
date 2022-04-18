@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Union DAO Meet Up
+title: Banker's Brunch (Powered by Union)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  ​🤝 Friends new, friends old, come and chat with Union DAO. Vouch, get vouched, and talk permissionless credit at this breakfast meetup. Coffee, tea, and light pastries will be provided.
+  ​Bringing together the best of the best in DeFi to talk about the horizon of decentralized credit. Think DAO to DAO credit, small biz loans thru DAOs, intra-DAO lending 🔁
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Union DAO Meet Up
+name: Banker's Brunch (Powered by Union)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,12 +50,14 @@ name: Union DAO Meet Up
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    ​🤝 Friends new, friends old, come and chat with Union DAO. Vouch, get vouched, and talk permissionless credit at this breakfast meetup. Coffee, tea, and light pastries will be provided.
+    Bringing together the best of the best in DeFi to talk about the horizon of decentralized credit. Think DAO to DAO credit, small biz loans thru DAOs, intra-DAO lending 🔁
+  -
+    Feat. speakers from MakerDAO, AAVE and Union - Talks start at 12:30pm - Q&A Panel starts at 1pm 🎤 - Mimosas & tasty brunch will be served, with veg and non-veg options.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-22
+date: 2022-04-21
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -63,12 +65,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '12:00'
 # Time when the event ends. Can be left empty.
-endTime: '11:00'
+endTime: '15:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://lu.ma/unionmeetup.ams
+tickets: https://lu.ma/bankersbrunch
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -76,11 +78,11 @@ tickets: https://lu.ma/unionmeetup.ams
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Vaudeville Theatre
+venue: Box Sociaal
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Singel 512, 1017 AX Amsterdam, Netherlands
+address: Plantage Middenlaan 30A, 1018 DG Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
