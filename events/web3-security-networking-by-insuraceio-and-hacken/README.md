@@ -28,20 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DevConnect Amsterdam
+title: Web3 Security Networking by  InsurAce.io and Hacken
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A collaborative Ethereum week, built by and for everyone. The flagship event(s) for the week.
-
+    We have two very exciting announcements from the teams, as well as an exclusive first look at a great new project launching very soon.
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DevConnect Amsterdam
+name: Web3 Security Networking by  InsurAce.io and Hacken
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,27 +49,29 @@ name: DevConnect Amsterdam
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Devconnect is a week-long in-person gathering that will feature independent Ethereum events, each with a unique focus. The goal is to focus on depth-first sessions rather than size, and to bring the Ethereum community together in smaller groups to talk, learn about, or make serious progress on specific subjects.'
+    We've got something very special lined up for anyone working in Web3 security... Join us at the DeFi Retreat on Wednesday 20th at 4pm for an exclusive event hosted by InsurAce.io and Hacken.
   -
-    'Events at and around Devconnect will be independently hosted and curated by experts in those domains.'
+    We have two very exciting announcements from the teams, as well as an exclusive first look at a great new project launching very soon. PURE ALPHA. You do not want to miss out.
+  -    
+    This event is for any developers and team members working in Web3 and Blockchain Security -> Auditors, White Hat Hacking, Bug Bounties, Insurance, Asset Recovery, Cyber Security.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2022-04-25
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '16:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '19:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://devconnect.org/
+tickets: https://www.eventbrite.com/e/web3-security-networking-exclusive-announcements-devconnect-amsterdam-tickets-322534026957
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +79,11 @@ tickets: https://devconnect.org/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: All around Amsterdam
+venue: Bar Italia
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Nes 96, 1012 Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
