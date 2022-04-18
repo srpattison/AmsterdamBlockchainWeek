@@ -50,7 +50,11 @@ name: amsterDOT
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    4 days of conf & hack sessions organized by some of the leading projects of the Polkadot and Kusama ecosystems.
+    The Conf events will cover some of the main trends in the Dotsama ecosystem, with a series of keynotes from leading projects.
+  -
+    Several workshops will provide an accessible introduction to building in Polkadot, with a special focus on frontend development.
+  -
+    Followed by a Hackathon with a juicy price pool and treasury bounties.
 
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -63,7 +67,7 @@ endDate: 2022-04-23
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '11:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
 endTime: '18:00'
 
